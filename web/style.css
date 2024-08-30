@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding-right: 0px;
+}
+
+body{
+    background: linear-gradient(rgb(0, 0, 0), rgb(10, 26, 78), rgb(0, 0, 0));
+    height: 100vh;
+}
+.button{
+    margin-left: 44%;
+    margin-top: 12%;
+    
+}
+.but_1{
+
+    padding: 14px;
+    /* background:linear-gradient(rgb(82, 82, 211),rgb(11, 11, 153)); */
+    background-color: rgb(44, 44, 124);
+    border: white;
+    border-radius: 999px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    transition: 1s;
+}
+
+.but_1:hover{
+    /* background: ; */
+    color: black;
+    background-color:rgba(44, 44, 124, 0.329);
+}
